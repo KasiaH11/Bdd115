@@ -12,6 +12,7 @@ public class Logowanie {
 
     WebDriver driver;
 
+
     @Given("Uzytkownik otwiera przegladarke")
     public void uzytkownik_otwiera_przegladarke() {
         System.out.println("Krok 1 - Uzytkownik otwiera przegladarke");
